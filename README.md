@@ -1,5 +1,5 @@
 # 2048 Game
-[DEMO LINK](https://ukrainiane-panda.github.io/2048_game/)
+[DEMO LINK](https://ukrainiane-panda.github.io/2048_game/) 🌟
 
 The 2048 Game is a web-based implementation of the popular puzzle game. It provides an addictive and challenging gameplay experience directly in your browser. 🎮
 
